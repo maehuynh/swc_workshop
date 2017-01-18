@@ -16,4 +16,4 @@ ggplot(data=gapminder, aes (x=year, y=lifeExp, by=country, color=continent)) +
 
 #Notes from Software Carpentry Workshop
 #Date: January 17-18, 2017
-
+#Author: M. Huynh
