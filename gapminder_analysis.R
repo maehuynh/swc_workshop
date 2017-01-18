@@ -13,3 +13,7 @@ ggplot(data=gapminder, aes (x=year, y=lifeExp, color=continent)) +
 
 ggplot(data=gapminder, aes (x=year, y=lifeExp, by=country, color=continent)) + 
   geom_line(color="black") + geom_point (aes(size=gdpPercap))
+
+#Notes from Software Carpentry Workshop
+#Date: January 17-18, 2017
+
